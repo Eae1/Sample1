@@ -1,0 +1,1 @@
+after file added, ignore function doesn't delete it from our branch
